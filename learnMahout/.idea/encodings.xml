@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/main/java/mahout/BaseItemRecommender.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/mahout/BaseUserRecommender.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/mahout/MyEvaluator.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/mahout/MyIRStatistics.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/recommender/action/RecommendAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/recommender/cache/RedisHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/recommender/dao/ProductDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/recommender/dao/RuleDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/recommender/dao/UserDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/recommender/domain/Item.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/recommender/domain/Product.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/recommender/domain/Template.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/recommender/service/ProductService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/recommender/service/RecommendModelService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/recommender/service/RecommendService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/recommender/service/RuleService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/recommender/service/UserProfileService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/recommender/service/impl/ProductServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/recommender/service/impl/RecommendServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/recommender/service/impl/RuleServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/recommender/service/impl/UserProfileServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/recommender/service/impl/model/RecommendModelServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/recommender/utils/DataInit.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/recommender/utils/JDProduct.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/recommender/utils/MyShardedJedisPool.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/recommender/utils/RecommendMain.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/spring-config.xml" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
